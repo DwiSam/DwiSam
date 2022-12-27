@@ -1,9 +1,8 @@
-### Hi there 👋
+## Hi there 👋
 <pre>
 💻 I am an undergraduate student in Institut Teknologi PLN - Jakarta
 📝 I have a strong interest in UI/UX and Front End Developer
 🌟 Main languages: JavaScript and C++
-🚩 Interested in Front End Developer
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>
 </pre>
 
