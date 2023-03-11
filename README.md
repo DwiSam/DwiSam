@@ -3,7 +3,7 @@
 💻 I am an final year student of informatics engineering in Institut Teknologi PLN - West Jakarta.
 📝 I have a strong interest in UI/UX and Front End Developer
 🌟 Main languages: JavaScript and C++
-🤔 I’m currently open for: <b>An Intern</b> or a new <b>job opportunity</b>
+🤔 I’m currently open for: <b>An Intern</b> or a new <b>Job Opportunity</b>
 </pre>
 
 ## 🤝 Connect with me
