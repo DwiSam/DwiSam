@@ -1,6 +1,6 @@
 ## Hi there 👋
 <pre>
-💻 I am an final year student of informatics engineering in Institut Teknologi PLN - West Jakarta.
+💻 I am a fresh graduate of informatics engineering in Institut Teknologi PLN - West Jakarta.
 📝 I have a strong interest in UI/UX and Front End Developer
 🤔 I’m currently open for: <b>An Intern</b> or a new <b>Job Opportunity</b>
 </pre>
