@@ -10,7 +10,7 @@
 
 ## My Statistics
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DwiSam&theme=algolia" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DwiSam&show_icons=true&theme=algolia" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DwiSam&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
