@@ -10,13 +10,13 @@
 
 ## My Statistics
 <p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DwiSam&show_icons=true&theme=algolia" />
-  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DwiSam&theme=algolia&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DwiSam&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" />
+  <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DwiSam&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 
 ## Programming Languages
 <p align ="center">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiSam&layout=compact&theme=algolia" />
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DwiSam&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact" />
 </p>
 <br>
