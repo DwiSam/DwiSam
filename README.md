@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+Welcome+to+My+Profile!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+</p>
+
 ## 🤝 Connect with me
 
 <p>
@@ -8,7 +12,8 @@
 </div>
 </p>
 
-## My Statistics
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=DwiSam" alt="DwiSam" /></a> </p>
 <p align="left">
   <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=DwiSam&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true" />
   <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=DwiSam&theme=chartreuse-dark&hide_border=true" />
